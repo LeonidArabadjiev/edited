@@ -9,7 +9,7 @@
   }
   @font-face {
     font-family: "h1font";
-    src: url("./fonts/h1font.ttf") format("truetype");
+    src: url("./h1font.ttf") format("truetype");
   }
   
   h1,
@@ -46,7 +46,7 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url(.background1.jpg);
+    background-image: url(./background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -125,7 +125,7 @@
     position: relative;
     bottom: 0;
     width: 100%;
-    background-image: url(.footerphoto.jpg);
+    background-image: url(./footerphoto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
